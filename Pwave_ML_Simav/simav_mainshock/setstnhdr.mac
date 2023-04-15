@@ -1,0 +1,11 @@
+$keys fil stla stlo stel 
+setbb stname $fil
+r %stname
+setbb stla $stla
+setbb stlo $stlo
+setbb stel $stel
+setbb stnm &1,kstnm
+chnhdr stla %stla stlo %stlo stel %stel
+w over
+lh stla stlo stel
+quit
