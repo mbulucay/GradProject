@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+<name>data.kml</name>
+<Folder>
+<name>data</name>
+<Placemark><name>201909261059</name><description>Epicenter Agency : DDA
+Depth : 7.97
+Mw : 5.8
+Md : null
+Ms : null
+Mb : null
+Ml : null
+</description><Point><coordinates>28.214,40.8818</coordinates></Point></Placemark><Placemark><name>201206072054</name><description>Epicenter Agency : AFAD
+Depth : 26.96
+Mw : null
+Md : null
+Ms : null
+Mb : null
+Ml : 5.1
+</description><Point><coordinates>27.9043,40.8628</coordinates></Point></Placemark><Placemark><name>201107251757</name><description>Epicenter Agency : AFAD
+Depth : 6.97
+Mw : null
+Md : null
+Ms : null
+Mb : null
+Ml : 5.1
+</description><Point><coordinates>27.7498,40.8195</coordinates></Point></Placemark><Placemark><name>200803121853</name><description>Epicenter Agency : AADY
+Depth : 24
+Mw : null
+Md : 4.7
+Ms : null
+Mb : null
+Ml : 5
+</description><Point><coordinates>29.0158,40.6252</coordinates></Point></Placemark><Placemark><name>200610241400</name><description>Epicenter Agency : GDDA
+Depth : 7.9
+Mw : 5.2
+Md : 5.2
+Ms : null
+Mb : 4.7
+Ml : 4.3
+</description><Point><coordinates>28.9937,40.4221</coordinates></Point></Placemark><Placemark><name>200610201815</name><description>Epicenter Agency : GDDA
+Depth : 16.7
+Mw : 5.1
+Md : 5.2
+Ms : null
+Mb : 4.8
+Ml : null
+</description><Point><coordinates>27.9792,40.2519</coordinates></Point></Placemark><Placemark><name>200306091744</name><description>Epicenter Agency : ISC
+Depth : 9.1
+Mw : 4.8
+Md : 5
+Ms : 4
+Mb : 4.5
+Ml : 5.1
+</description><Point><coordinates>28.0099,40.1861</coordinates></Point></Placemark><Placemark><name>200008231341</name><description>Epicenter Agency : ISC
+Depth : 10.5
+Mw : 5.3
+Md : 5.4
+Ms : 4.9
+Mb : 5.1
+Ml : 5.2
+</description><Point><coordinates>30.76,40.782</coordinates></Point></Placemark><Placemark><name>199911191959</name><description>Epicenter Agency : ISC
+Depth : 5.3
+Mw : 4.9
+Md : 5
+Ms : 4.4
+Mb : 4.8
+Ml : 4.8
+</description><Point><coordinates>31.017,40.831</coordinates></Point></Placemark><Placemark><name>199911170815</name><description>Epicenter Agency : ISC
+Depth : 7
+Mw : 5
+Md : 5
+Ms : 4.5
+Mb : 4.7
+Ml : 4.8
+</description><Point><coordinates>31.493,40.832</coordinates></Point></Placemark><Placemark><name>199911130252</name><description>Epicenter Agency : ISC
+Depth : 5
+Mw : 5
+Md : 4.7
+Ms : null
+Mb : null
+Ml : null
+</description><Point><coordinates>30.219,40.824</coordinates></Point></Placemark><Placemark><name>199911130054</name><description>Epicenter Agency : ISC
+Depth : 5.2
+Mw : 5
+Md : 4.6
+Ms : 4.5
+Mb : 4.9
+Ml : 4.8
+</description><Point><coordinates>31.02,40.77</coordinates></Point></Placemark><Placemark><name>199911121814</name><description>Epicenter Agency : ISC
+Depth : 10
+Mw : 4.9
+Md : 5
+Ms : null
+Mb : 4.6
+Ml : null
+</description><Point><coordinates>31.327,40.741</coordinates></Point></Placemark><Placemark><name>199911121756</name><description>Epicenter Agency : GDDA
+Depth : 9.6
+Mw : 5
+Md : 4.8
+Ms : null
+Mb : null
+Ml : null
+</description><Point><coordinates>31.25,40.87</coordinates></Point></Placemark><Placemark><name>199911121747</name><description>Epicenter Agency : GDDA
+Depth : 20.1
+Mw : 5
+Md : 4.8
+Ms : null
+Mb : null
+Ml : null
+</description><Point><coordinates>30.88,40.87</coordinates></Point></Placemark><Placemark><name>199911121729</name><description>Epicenter Agency : ISC
+Depth : 11
+Mw : 5.3
+Md : 5.2
+Ms : null
+Mb : 5
+Ml : null
+</description><Point><coordinates>31.467,40.703</coordinates></Point></Placemark><Placemark><name>199911121727</name><description>Epicenter Agency : ISK
+Depth : 10
+Mw : 5.4
+Md : 5.2
+Ms : null
+Mb : null
+Ml : null
+</description><Point><coordinates>31.4,40.75</coordinates></Point></Placemark><Placemark><name>199911121723</name><description>Epicenter Agency : GDDA
+Depth : 10
+Mw : 5.3
+Md : 5.1
+Ms : null
+Mb : null
+Ml : null
+</description><Point><coordinates>31.16,40.76</coordinates></Point></Placemark><Placemark><name>199911121718</name><description>Epicenter Agency : ISC
+Depth : 27.8
+Mw : 5.5
+Md : 5.4
+Ms : null
+Mb : 5.2
+Ml : null
+</description><Point><coordinates>31.084,40.752</coordinates></Point></Placemark><Placemark><name>199911121717</name><description>Epicenter Agency : ISC
+Depth : 9.3
+Mw : 5
+Md : 5.2
+Ms : null
+Mb : 4.7
+Ml : null
+</description><Point><coordinates>31.007,40.825</coordinates></Point></Placemark><Placemark><name>199911121657</name><description>Epicenter Agency : ISC
+Depth : 10.4
+Mw : 7.1
+Md : 7.2
+Ms : 7.4
+Mb : 6.2
+Ml : 6.6
+</description><Point><coordinates>31.187,40.806</coordinates></Point></Placemark><Placemark><name>199911111441</name><description>Epicenter Agency : ISC
+Depth : 7.5
+Mw : 5.6
+Md : 5.7
+Ms : 5.5
+Mb : 5.4
+Ml : 5.2
+</description><Point><coordinates>30.248,40.747</coordinates></Point></Placemark><Placemark><name>199911071654</name><description>Epicenter Agency : ISC
+Depth : 7.4
+Mw : 4.9
+Md : 5
+Ms : 4.3
+Mb : 4.8
+Ml : null
+</description><Point><coordinates>30.717,40.697</coordinates></Point></Placemark><Placemark><name>199910202308</name><description>Epicenter Agency : ISC
+Depth : 6.6
+Mw : 5.1
+Md : 4.4
+Ms : 4.6
+Mb : 4.7
+Ml : 4.6
+</description><Point><coordinates>29.027,40.831</coordinates></Point></Placemark><Placemark><name>199909290013</name><description>Epicenter Agency : ISC
+Depth : 12.2
+Mw : 5.2
+Md : 4.9
+Ms : 4.7
+Mb : 4.9
+Ml : null
+</description><Point><coordinates>29.331,40.738</coordinates></Point></Placemark><Placemark><name>199909202128</name><description>Epicenter Agency : ISC
+Depth : 14.6
+Mw : 5.2
+Md : 5
+Ms : 4.7
+Mb : 4.7
+Ml : null
+</description><Point><coordinates>27.578,40.666</coordinates></Point></Placemark><Placemark><name>199909131155</name><description>Epicenter Agency : ISC
+Depth : 10.4
+Mw : 5.8
+Md : 5.7
+Ms : 5.7
+Mb : 5.6
+Ml : null
+</description><Point><coordinates>30.079,40.75</coordinates></Point></Placemark><Placemark><name>199909090132</name><description>Epicenter Agency : ISC
+Depth : 8.5
+Mw : 4
+Md : 4.3
+Ms : 3.2
+Mb : 3.9
+Ml : 5
+</description><Point><coordinates>29.146,40.702</coordinates></Point></Placemark><Placemark><name>199908310810</name><description>Epicenter Agency : ISC
+Depth : 4
+Mw : 5.1
+Md : 5.2
+Ms : 4.8
+Mb : 5.3
+Ml : null
+</description><Point><coordinates>29.935,40.756</coordinates></Point></Placemark><Placemark><name>199908221430</name><description>Epicenter Agency : ISC
+Depth : 13.9
+Mw : 5.2
+Md : 5
+Ms : 4.8
+Mb : 4.6
+Ml : null
+</description><Point><coordinates>30.704,40.685</coordinates></Point></Placemark><Placemark><name>199908201000</name><description>Epicenter Agency : ISC
+Depth : 25.8
+Mw : 5.1
+Md : 4.4
+Ms : 4.5
+Mb : 4.3
+Ml : null
+</description><Point><coordinates>30.599,40.653</coordinates></Point></Placemark><Placemark><name>199908191517</name><description>Epicenter Agency : ISC
+Depth : 12
+Mw : 5.1
+Md : 5.1
+Ms : 4.7
+Mb : 4.9
+Ml : null
+</description><Point><coordinates>29.137,40.629</coordinates></Point></Placemark><Placemark><name>199908170420</name><description>Epicenter Agency : ISC
+Depth : 12.6
+Mw : 5.1
+Md : 4.4
+Ms : 4.5
+Mb : 4.6
+Ml : null
+</description><Point><coordinates>30.409,40.689</coordinates></Point></Placemark><Placemark><name>199908170314</name><description>Epicenter Agency : ISC
+Depth : 20.8
+Mw : 5.2
+Md : 4.9
+Ms : 4.8
+Mb : 4.9
+Ml : null
+</description><Point><coordinates>30.666,40.644</coordinates></Point></Placemark><Placemark><name>199908170250</name><description>Epicenter Agency : ISC
+Depth : 11.3
+Mw : 5.1
+Md : 4.2
+Ms : 4.6
+Mb : 4.9
+Ml : null
+</description><Point><coordinates>30.064,40.783</coordinates></Point></Placemark><Placemark><name>199908170242</name><description>Epicenter Agency : ISC
+Depth : 1.2
+Mw : 5.2
+Md : 4.6
+Ms : 4.8
+Mb : 4.9
+Ml : null
+</description><Point><coordinates>30.625,40.635</coordinates></Point></Placemark><Placemark><name>199908170133</name><description>Epicenter Agency : ISC
+Depth : 7.4
+Mw : 5.4
+Md : null
+Ms : 5.1
+Mb : 4.7
+Ml : null
+</description><Point><coordinates>29.108,40.682</coordinates></Point></Placemark><Placemark><name>199908170016</name><description>Epicenter Agency : ANSS
+Depth : 10
+Mw : 5.3
+Md : null
+Ms : null
+Mb : 5
+Ml : null
+</description><Point><coordinates>29.97,40.741</coordinates></Point></Placemark><Placemark><name>199908170015</name><description>Epicenter Agency : ANSS
+Depth : 10
+Mw : 5.2
+Md : null
+Ms : null
+Mb : 4.9
+Ml : null
+</description><Point><coordinates>30.751,40.648</coordinates></Point></Placemark><Placemark><name>199908170001</name><description>Epicenter Agency : ISC
+Depth : 17
+Mw : 7.6
+Md : 7.4
+Ms : 7.7
+Mb : 6.1
+Ml : null
+</description><Point><coordinates>29.955,40.756</coordinates></Point></Placemark></Folder>
+</Document>
+</kml>
