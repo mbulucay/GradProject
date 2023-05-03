@@ -23,4 +23,3 @@ for file_name in os.listdir(dir_path):
                 f.write(data)
                 if(nth+1 != len(mag_data)):
                     f.write(' ')
-
