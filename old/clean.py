@@ -25,8 +25,8 @@ def clean_sac_file(input_file, output_file, freq_min, freq_max):
 # Test the clean_sac_file function on an example SAC file
 input_file = "KULAA.BHZ.sac"
 output_file = "example_filtered2.sac"
-freq_min = 1.0
-freq_max = 10.0
+freq_min = 2.0
+freq_max = 7.0
 clean_sac_file(input_file, output_file, freq_min, freq_max)
 
 # Verify that the filtered SAC file was created
